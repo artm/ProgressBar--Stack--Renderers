@@ -1,6 +1,6 @@
 ProgressBar-Stack-Renderers
 
-This module provides enhanced renderer for the ProgressBar::Stack module. 
+This module provides enhanced renderer for the [ProgressBar::Stack][1] module. 
 
 The new renderer provides a spinner sprite for better feedback during very 
 slow operations and some means to print scrolling log-like messages without 
@@ -36,6 +36,7 @@ You can also look for information at:
     Search CPAN
         http://search.cpan.org/dist/ProgressBar-Stack-Renderers/
 
+[1]: http://search.cpan.org/~lany/ProgressBar-Stack-1.01/lib/ProgressBar/Stack.pm
 
 LICENSE AND COPYRIGHT
 
