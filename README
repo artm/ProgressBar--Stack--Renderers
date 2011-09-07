@@ -1,0 +1,49 @@
+ProgressBar-Stack-Renderers
+
+This module provides enhanced renderer for the ProgressBar::Stack module. 
+
+The new renderer provides a spinner sprite for better feedback during very 
+slow operations and some means to print scrolling log-like messages without 
+producing visual garbage.
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Build.PL
+	./Build
+	./Build test
+	./Build install
+
+SUPPORT AND DOCUMENTATION
+
+After installing, you can find documentation for this module with the
+perldoc command.
+
+    perldoc ProgressBar::Stack::Renderers
+
+You can also look for information at:
+
+    RT, CPAN's request tracker (report bugs here)
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=ProgressBar-Stack-Renderers
+
+    AnnoCPAN, Annotated CPAN documentation
+        http://annocpan.org/dist/ProgressBar-Stack-Renderers
+
+    CPAN Ratings
+        http://cpanratings.perl.org/d/ProgressBar-Stack-Renderers
+
+    Search CPAN
+        http://search.cpan.org/dist/ProgressBar-Stack-Renderers/
+
+
+LICENSE AND COPYRIGHT
+
+Copyright (C) 2011 Artem Baguinski
+
+This program is free software; you can redistribute it and/or modify it
+under the terms of either: the GNU General Public License as published
+by the Free Software Foundation; or the Artistic License.
+
+See http://dev.perl.org/licenses/ for more information.
+

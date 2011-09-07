@@ -1,0 +1,8 @@
+Build
+*.bak
+META.json
+META.yml
+MYMETA.json
+MYMETA.yml
+Makefile.PL
+_build/
